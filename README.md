@@ -1,12 +1,15 @@
-# SATechnicalChallenge
+# Simple Profile Management
 
-Sample .Net Core Web API and Angular project
+.Net Core Web API and Angular project
 
 By using:
 
 -Dependency Injection
+
 -Repository pattern
+
 -Swagger
+
 
 Web API:
 
